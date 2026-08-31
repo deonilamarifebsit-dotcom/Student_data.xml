@@ -1,0 +1,24 @@
+Questions for Reflection
+
+1. What are the basic rules of XML you applied in this lab?
+
+The basic rules I applied were properly opening and closing all tags, 
+using a single root element, correctly nesting the elements, 
+and making sure the XML document follows the correct structure and syntax.
+
+2. Why does XML need a single root element?
+
+XML needs a single root element because it acts as the main container of all the data in the document.
+It keeps the XML document organized and allows the data to have a clear hierarchical structure.
+
+3. How does XML ensure interoperability?
+
+XML ensures interoperability by using a standard and platform-independent format for storing and exchanging data.
+Different applications, systems, and programming languages can read and process XML data.
+
+Short Reflection Paragraph
+
+In this activity, I learned how to create and validate a simple XML document. 
+I learned the importance of using proper opening and closing tags, correct nesting, and a
+single root element. Validating the XML helped me understand how to identify and correct errors in the document.
+Overall, the activity helped me understand how XML can organize and exchange data between different systems.
